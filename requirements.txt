@@ -1,1 +1,1 @@
-https://github.com/pimoroni/bme680-python
+bme680-python
