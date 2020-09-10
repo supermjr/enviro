@@ -1,4 +1,4 @@
-# enviro Overview :thermometer:
+# enviro Overview :thermometer: ![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/supermjr/enviro)
 ## Environmental Monitoring on Raspberry Pi with Bosch BME680 sensor in Python
 This script reads data from a Raspberry Pi [Bosch BME680](https://amzn.to/2DJoFqr) module and writes it to:
 
